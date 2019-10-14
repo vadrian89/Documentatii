@@ -1,9 +1,9 @@
 # Standardul folosit in folosirea git va fi trecut aici.  
 ## Branch-urile proiectelor:
-- **master**(#master) -> branch-ul de lucru;
-- **test**(#test) -> branch-ul de test;
-- **pre**(#pre) -> branch-ul de pre-producție;
-- **pro**(#pro) -> branch-ul de producție;
+- [**master**](#master) -> branch-ul de lucru;
+- [**test**](#test) -> branch-ul de test;
+- [**pre**](#pre) -> branch-ul de pre-producție;
+- [**pro**](#pro) -> branch-ul de producție;
 
 ## master
 Branch-ul principal de lucru, aici se vor face commit-urile de lucru pentru a putea fi trimise catre test.
