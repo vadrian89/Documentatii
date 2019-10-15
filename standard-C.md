@@ -11,7 +11,7 @@ Structura: StructuraMea
 
 Exemplu:  
 
-```
+```c++
 //Fereastra.h
 
 #ifndef FEREASTRA_H
