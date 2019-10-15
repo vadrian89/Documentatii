@@ -48,7 +48,41 @@ Codul din acest branch trebuie să fie funcțional pentru mediile oficiale de pr
 -   membri echipei care lucrează la proiect vor fi trecuți în fisierul principal README.md sub categoria **Componența echipei**;
 -   responsabilul proiectului va fi trecut in fisierul principal README.md sub forma **Responsabil: Nume Prenume**;
 -   nu este obligatorie aprobarea unui membru al echipei, dacă acesta lipsește de la locul de muncă, indiferent de motiv: concediu/învoire/nemotivat;
--   in lipsa responsabilului de proiect oricare membru al echipei ce are drept poate face *pull request* și *merge*, doar până la faza de **pre-producție*** și doar cu minimum 2 aprobări de la alți membri ai echipei;
+-   in lipsa responsabilului de proiect oricare membru al echipei ce are drept poate face *pull request* și *merge*, doar până la faza de **pre-producție** și doar cu minimum 2 aprobări de la alți membri ai echipei;
 -   responsabilul de proiect poate oferi drepturi administrative în funcție de nevoi;
 -   nu vor lucra mai mult de 1 persoană pe același fișier, pentru a evita probleme ulterioare; se va comunica constant în echipă;
 -   excepție de la regulile workflow-ului descris e documentația;
+
+## Standard denumire branch ##
+Pe lângă denumirile standard master/test/pre/pro se vor crea diferite branch-uri doar la nevoie:
+1.  Branch-ul să aibă o denumire descriptivă;
+2.  Denumirea trebuie să fie de forma: **nume-branch**;
+
+## Standard commit-uri ##
+1.  Titlurile commit-urilor trebuie să fie descriptive și scurte; **Prima linie din commit e titlul**;
+2.  Corpul commit-ului trebuie să descrie exact ce s-a modificat;
+
+## Standard issue-uri ##
+Pentru a se putea selecta mai ușor rezolvarea issue-urilor acestea vor avea titluri standarde care vor descrie importanța lor, precum
+și etichete specifice.
+1. Eroare de producție -> Etichetă: Urgent
+2. Cerere pull request PRE/PRO -> Etichetă: Pre2Pro
+3. Cerere pull request TEST/PRE -> Etichetă: Test2Pre
+4. Cerere pull request Master/TEST -> Etichetă: Master2Test
+5. Cerere funcționalitate nouă -> Etichetă: Request
+6. Bug test -> Etichetă: Important
+7. Bug pre -> Etichetă: Important
+8. Bug pro -> Etichetă: Important
+Dacă nici unul din titluri nu desscrie problema celui care deschide issue se vor folosi următoarele standarde:
+9. Cerere: <text scurt și descriptiv> -> Etichetă: Request/TODO
+10. Problemă: <text scurt și descriptiv> -> Etichetă: Important
+
+## Standard etichete ##
+Etichetele vor avea următoarele culori, în cod hex:
+-   Urgent: #ff1100
+-   Important: #fcf526
+-   Request: #9700a8
+-   Pre2Pro: #000ea8
+-   Test2Pre: #0094a8
+-   Master2Test: #00a822
+-   TODO: #5100a8
