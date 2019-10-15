@@ -86,3 +86,7 @@ Etichetele vor avea următoarele culori, în cod hex:
 -   Test2Pre: #0094a8
 -   Master2Test: #00a822
 -   TODO: #5100a8
+
+## Componența echipei ##
+### Reponsabil: ###
+-   Verban Adrian
