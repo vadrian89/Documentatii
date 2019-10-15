@@ -39,7 +39,7 @@ Codul din acest branch trebuie să fie funcțional pentru mediile oficiale de pr
 7.  Se va face *pull request*, revizuire modificări și *merge* de către responsabilul proiectului.
 ### Faza de testare pre-producție ###
 8.  Se va testa ca aplicația să nu fi fost afectată de *merge*, se vor testa toate modificările făcute și o verificare generală a proiectului pentru a elimina orice problemă de către toți membrii echipei.
-    1.  Dacă ceva nu funcționează se va lăsa comentariu în issue-ul de la pasul 8b iar programatorul care a făcut modificările va relua pașii necesari pentru a ajunge la punctul 8.
+    1.  Dacă ceva nu funcționează se va lăsa comentariu în issue-ul de la pasul 6.2 iar programatorul care a făcut modificările va relua pașii necesari pentru a ajunge la punctul 8.
     2.  Dacă totul funcționează se va deschide issue cu cerere de *pull request* **pre** -> **pro**.
 9.  Se va face *pull request*, revizuire modificări și *merge* de către responsabilul proiectului.
 ### Membrii echipei vor efectua teste ale proiectului cu versiunea de producție pentru a se asigura că nu există probleme. ###
