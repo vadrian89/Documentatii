@@ -45,10 +45,10 @@ Codul din acest branch trebuie să fie funcțional pentru mediile oficiale de pr
 ### Membrii echipei vor efectua teste ale proiectului cu versiunea de producție pentru a se asigura că nu există probleme. ###
 
 ## Informații adiționale workflow ##
--   membri echipei care lucrează la proiect vor fi trecuți în fisierul principal README.md sub categoria ### Componența echipei ###;
+-   membri echipei care lucrează la proiect vor fi trecuți în fisierul principal README.md sub categoria **Componența echipei**;
 -   responsabilul proiectului va fi trecut in fisierul principal README.md sub forma **Responsabil: Nume Prenume**;
 -   nu este obligatorie aprobarea unui membru al echipei, dacă acesta lipsește de la locul de muncă, indiferent de motiv: concediu/învoire/nemotivat;
 -   in lipsa responsabilului de proiect oricare membru al echipei ce are drept poate face *pull request* și *merge*, doar până la faza de **pre-producție*** și doar cu minimum 2 aprobări de la alți membri ai echipei;
 -   responsabilul de proiect poate oferi drepturi administrative în funcție de nevoi;
 -   nu vor lucra mai mult de 1 persoană pe același fișier, pentru a evita probleme ulterioare; se va comunica constant în echipă;
--   excepție de la regulile workflow-ului descris e documentația; 
+-   excepție de la regulile workflow-ului descris e documentația;
