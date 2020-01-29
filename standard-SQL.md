@@ -21,6 +21,7 @@ Nume proiect: gest_app
 Schema: gest_app
 Tabela: ga_ma_tabela_master
 Coloana: tm_o_valoare 
+ /* - tm -> tabela master */  
 Secventa: sq_cheie_primare
 Constraint: fk_cheie_straina
 ```
