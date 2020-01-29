@@ -1,0 +1,19 @@
+# Standardul folosit in HTML/CSS/JavaScript va fi trecut aici. #
+Forma va fi: \<element\>: \<sintaxa\>    
+
+ID: sdc-id-element
+Clasa: sdc-clasa
+Atribute custom: data-sdc-atribut
+
+Structura proiectului:  
+-  root -> radacina proiectului, unde se afla index.html/index.php/etc.  
+-  root/css -> dosarul cu fisierele CSS  
+-  root/js -> dosarul cu fisierele JavaScript  
+-  root/assets -> fisiere extra   
+-  root/assets/images/mobile -> imaginile de rezolutie mica, pana la latimea de 960px   
+-  root/assets/images/mid-res -> imaginile de rezolutie medie, pana la latimea de 1920px  
+-  root/assets/images/high-res -> imaginile de rezolutie mare, incepand cu latimea de 1920px  
+-  root/assets/video -> fisierele video   
+-  root/php -> fisierele PHP  
+
+Numele fisierelor va fi de forma: nume-fisier.extensie
