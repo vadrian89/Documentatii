@@ -1,0 +1,28 @@
+Standardul folosit in codul Dart va fi trecut aici.
+
+Structura proiectulu:   
+-  root -> radacina proiectului, unde se afla fisierul main.dart;  
+-  root/lib/screens -> dosarul cu diferitele ecrane al aplicatiei; tot ce returneaza o fereastra intreaga intra aici;  
+-  root/lib/models -> dosarul cu clasele de tip model, care contin datele aplicatiei;   
+-  root/lib/services -> dosarul cu fisiere de backend;    
+-  root/lib/utils -> dosarul cu utilitati;  
+-  root/lib/widgets -> dosarul cu widgeturi;  
+-  root/assets -> fisiere extra    
+-  root/assets/images/ -> imaginile  
+-  root/assets/icons/ -> iconitele aplicatiei  
+-  root/assets/fonts/ -> fonturi folosite  
+-  root/assets/video -> fisierele video     
+
+Forma va fi: <element>: <sintaxa>
+
+Nume fisier: fiser_sursa.dart
+Clasa: ClasaMea
+Variabila membra publica: variabilaClasei
+Variabila membra privata: _variabilaClasei
+Variabila simpla: varibilaLocalaGlobala
+Constanta: VALOARE_CONSTANTA
+Functie publica: functiaMea()
+Functie privata: _functiaMea()
+
+** Incomplet **
+
