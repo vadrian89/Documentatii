@@ -4,7 +4,7 @@ Structura proiectulu:
 -  root -> radacina proiectului, unde se afla fisierul main.dart;  
 -  root/lib/screens -> dosarul cu diferitele ecrane al aplicatiei; tot ce returneaza o fereastra intreaga intra aici;  
 -  root/lib/models -> dosarul cu clasele de tip model, care contin datele aplicatiei;   
--  root/lib/services -> dosarul cu fisiere de backend;    
+-  root/lib/repositories -> dosarul cu fisiere de backend;    
 -  root/lib/utils -> dosarul cu utilitati;  
 -  root/lib/widgets -> dosarul cu widgeturi;  
 -  root/assets -> fisiere extra    
